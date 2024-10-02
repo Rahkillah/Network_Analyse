@@ -1,0 +1,10 @@
+	creation de l'environnement virtuel
+python -m venv venv
+
+venv\Scripts\activate
+
+	Pour quitter l'environnement virtuel, il suffit de taper :
+deactivate
+
+
+pip install streamlit
