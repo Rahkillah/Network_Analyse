@@ -14,3 +14,9 @@ pip install pandas
 pip install numpy
 
 pip install sklearn
+
+streamlit run app.py 
+
+## License
+
+Copyright © 2024 [Andrandraina](https://www.linkedin.com/in/andrandraina-randrianaivo-562aa3282/). All rights reserved.
